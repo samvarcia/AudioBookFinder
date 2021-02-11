@@ -1,5 +1,6 @@
 import React from 'react'
 import BeekLogo from '../assets/img/BeekLogo.svg'
+import '../assets/styles/components/Header.scss'
 
 const Header = () => {
   return(

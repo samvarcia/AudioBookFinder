@@ -1,15 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,700;1,400&display=swap");
-
-$bgColor: #f7f7fc;
-$roboto: "Roboto", sans-serif;
-
 body {
-  font-family: $roboto;
+  font-family: "Roboto", sans-serif;
   text-align: center;
   padding: 0;
   margin: 0;
-  background-color: $bgColor;
+  background-color: #f7f7fc;
 }
+
 .hero_title {
-  font-size: 50px;
+  font-size: 45px;
 }
+/*# sourceMappingURL=App.css.map */
