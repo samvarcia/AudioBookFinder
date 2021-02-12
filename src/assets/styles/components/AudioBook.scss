@@ -1,0 +1,60 @@
+$poppins: "Poppins", sans-serif;
+
+.audiobook {
+  background-color: #fff;
+  box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.15);
+  border-radius: 27px;
+  width: 60%;
+  margin-top: 20px;
+  padding: 15px;
+
+  .audiobook_container,
+  .audiobook_info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: auto;
+  }
+
+  .audiobook_info {
+    align-items: flex-end;
+    width: 50%;
+  }
+
+  span {
+    font-weight: 500;
+  }
+  h2 {
+    font-size: 18px;
+  }
+
+  .cancel-button {
+    background: #ec4f58;
+    color: #fff;
+  }
+  .create-button {
+    background-color: #6fe2e6;
+    color: #fff;
+  }
+
+  .create-button,
+  .cancel-button {
+    text-align: center;
+    margin-left: 15px;
+    height: 40px;
+    width: 90px;
+    font-family: $poppins;
+    // font-weight: 600;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 27px;
+    border: none;
+    outline: none;
+  }
+
+  .left_info,
+  .right_info {
+    text-align: left;
+  }
+}

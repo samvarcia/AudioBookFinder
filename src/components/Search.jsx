@@ -16,7 +16,7 @@ class SearchBar extends React.Component{
   render() {
     return(
       <div className="search_container">
-        <input className="search_input" type="text" placeholder="Buscar audiolibro..."/>
+        <input className="search_input" type="text" placeholder="Search AudioBook..."/>
         <button className="search" type="submit"><Search color="white" /></button>
         <button
           class="toggle-button"
@@ -57,7 +57,7 @@ class SearchBar extends React.Component{
               <span>Cover</span>
               <input placeholder="Url of cover image" type="text" name="" id="cover" className="formInput"/>
             </label>
-            <div>
+            <div className="id_version_container">
               <label htmlFor="id" className="label">
                 <span>Id</span>
                 <input placeholder="id" type="text" name="" id="id" className="formInput"/>

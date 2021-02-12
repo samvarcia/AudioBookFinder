@@ -3,6 +3,7 @@ $bgColor: #f7f7fc;
 $gilroy: "Gilroy";
 $gilroyBold: "GilroyBold";
 $poppins: "Poppins", sans-serif;
+$breakpoint-tablet: 768px;
 
 body {
   font-family: $poppins;
@@ -15,7 +16,11 @@ body {
 .hero_title {
   font-size: 50px;
 }
-$breakpoint-tablet: 768px;
+.audiobook_box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 @media screen and (max-width: $breakpoint-tablet) {
   .hero_title {

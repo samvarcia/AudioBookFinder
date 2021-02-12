@@ -1,0 +1,670 @@
+{
+  "sys": {
+    "type": "Array"
+  },
+  "features": [{
+    "total": 18,
+    "skip": 0,
+    "limit": 100
+  }],
+  "items": [
+    {
+      "fields": {
+        "title": {
+          "es-MX": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
+        },
+        "is_original": {
+          "es-MX": false
+        },
+        "street_date": {
+          "es-MX": "2020-12-25T00:00-06:00"
+        },
+        "cost_per_play": {
+          "es-MX": 90
+        },
+        "authors": {
+          "es-MX": [
+            "Ashlee Vance"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Fred Sanders"
+          ]
+        },
+        "duration": {
+          "es-MX": 589632
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD059097"
+        }
+      },
+      "sys": {
+        "id": "1zoOeGhSXyLa72y7osjaCt",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
+        },
+        "is_original": {
+          "es-MX": false
+        },
+        "street_date": {
+          "es-MX": "2020-12-25T00:00-06:00"
+        },
+        "cost_per_play": {
+          "es-MX": 90
+        },
+        "authors": {
+          "es-MX": [
+            "Ashlee Vance"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Fred Sanders"
+          ]
+        },
+        "duration": {
+          "es-MX": 589632
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD059097"
+        }
+      },
+      "sys": {
+        "id": "4TTUoYSxTRppc7SUpVijjn",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
+        },
+        "is_original": {
+          "es-MX": false
+        },
+        "street_date": {
+          "es-MX": "2020-12-25T00:00-06:00"
+        },
+        "cost_per_play": {
+          "es-MX": 90
+        },
+        "authors": {
+          "es-MX": [
+            "Ashlee Vance"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Fred Sanders"
+          ]
+        },
+        "duration": {
+          "es-MX": 589632
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD059097"
+        }
+      },
+      "sys": {
+        "id": "6GbFmzdBO7KyfDLd5Fk8wK",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
+        },
+        "is_original": {
+          "es-MX": false
+        },
+        "street_date": {
+          "es-MX": "2020-12-25T00:00-06:00"
+        },
+        "cost_per_play": {
+          "es-MX": 90
+        },
+        "authors": {
+          "es-MX": [
+            "Ashlee Vance"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Fred Sanders"
+          ]
+        },
+        "duration": {
+          "es-MX": 589632
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD059097"
+        }
+      },
+      "sys": {
+        "id": "5i9JGEsewbUaMbLZZ1H8Lf",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "Asesinas"
+        },
+        "is_original": {
+          "es-MX": true
+        },
+        "street_date": {
+          "es-MX": "2020-06-28T00:00-06:00"
+        },
+        "cost_per_play": {
+          "es-MX": 65
+        },
+        "authors": {
+          "es-MX": [
+            "Natasha Dupeyron"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Natasha Dupeyron"
+          ]
+        },
+        "duration": {
+          "es-MX": 369752
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD346868"
+        }
+      },
+      "sys": {
+        "id": "5rcbRYwTyVLjzIMsp58Adm",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "Un mundo de posibilidades"
+        },
+        "is_original": {
+          "es-MX": true
+        },
+        "street_date": {
+          "es-MX": "2020-02-18T00:00-06:00"
+        },
+        "cost_per_play": {
+          "es-MX": 28
+        },
+        "authors": {
+          "es-MX": [
+            "Haru Escárcega"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Haru Escárcega"
+          ]
+        },
+        "duration": {
+          "es-MX": 489652
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD346866"
+        }
+      },
+      "sys": {
+        "id": "epEhPpR1s4qHHNTJV56rh",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "Por qué las startups no triunfan en Latinoamérica y cómo solucionarlo"
+        },
+        "is_original": {
+          "es-MX": true
+        },
+        "street_date": {
+          "es-MX": "2019-08-08T00:00-06:00"
+        },
+        "cost_per_play": {
+          "es-MX": 48
+        },
+        "authors": {
+          "es-MX": [
+            "Freddy Vega"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Freddy Vega"
+          ]
+        },
+        "duration": {
+          "es-MX": 659845
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD348525"
+        }
+      },
+      "sys": {
+        "id": "2IlgWI4ZkyGiGiQ6narG6W",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "El efecto WOW"
+        },
+        "is_original": {
+          "es-MX": false
+        },
+        "street_date": {
+          "es-MX": "2019-03-08T00:00-06:00"
+        },
+        "cost_per_play": {
+          "es-MX": 24
+        },
+        "authors": {
+          "es-MX": [
+            "Mari Carmen Obregón"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Mari Carmen Obregón"
+          ]
+        },
+        "duration": {
+          "es-MX": 165489
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD361250"
+        }
+      },
+      "sys": {
+        "id": "5vlPIuIIHCS4FpCA4Amnuh",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "El arte de la guerra, en 15 minutos..."
+        },
+        "is_original": {
+          "es-MX": false
+        },
+        "street_date": {
+          "es-MX": "2019-06-12T00:00-06:00"
+        },
+        "cost_per_play": {
+          "es-MX": 36
+        },
+        "authors": {
+          "es-MX": [
+            "Sun Tzu",
+            "Enrique Dans",
+            "Marina R.Pinto"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Denisse Roldán",
+            "Germán Gijón"
+          ]
+        },
+        "duration": {
+          "es-MX": 598412
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD372415"
+        }
+      },
+      "sys": {
+        "id": "5IcxJLUYx7MWbHLYNGspGv",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "Viviendo en el futuro"
+        },
+        "is_original": {
+          "es-MX": false
+        },
+        "street_date": {
+          "es-MX": "2019-08-14T00:00-06:00"
+        },
+        "cost_per_play": {
+          "es-MX": 64
+        },
+        "authors": {
+          "es-MX": [
+            "Enrique Dans",
+            "Marina R.Pinto"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Germán Gijón"
+          ]
+        },
+        "duration": {
+          "es-MX": 369874
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD327827"
+        }
+      },
+      "sys": {
+        "id": "60XLcGjjiUBrbfRZoRk6dV",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "El cerebro motivado"
+        },
+        "is_original": {
+          "es-MX": false
+        },
+        "street_date": {
+          "es-MX": "2020-10-22T00:00-06:00"
+        },
+        "cost_per_play": {
+          "es-MX": 29
+        },
+        "authors": {
+          "es-MX": [
+            "Marina R.Pinto"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Jordi Salas"
+          ]
+        },
+        "duration": {
+          "es-MX": 65941
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD314144"
+        }
+      },
+      "sys": {
+        "id": "6oE1GoixEaNTg4Wg87DaBE",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "El principito"
+        },
+        "is_original": {
+          "es-MX": true
+        },
+        "street_date": {
+          "es-MX": "2020-11-24T00:00-06:00"
+        },
+        "cost_per_play": {
+          "es-MX": 46
+        },
+        "authors": {
+          "es-MX": [
+            "Antoine de St Exupéry"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Marina Clyo"
+          ]
+        },
+        "duration": {
+          "es-MX": 69874
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD144672"
+        }
+      },
+      "sys": {
+        "id": "7furMJr8tPW0mZNLIl2jD3",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "De cero a uno"
+        },
+        "is_original": {
+          "es-MX": true
+        },
+        "street_date": {
+          "es-MX": "2020-12-17T00:00-06:00"
+        },
+        "cost_per_play": {
+          "es-MX": 15
+        },
+        "authors": {
+          "es-MX": [
+            "Peter Thiel",
+            "Alejandro Garcia"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Ana Ragasol",
+            "Juan Ramirez Estrada"
+          ]
+        },
+        "duration": {
+          "es-MX": 54987
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD313127"
+        }
+      },
+      "sys": {
+        "id": "55DLRwRuMHvnsY4qzHcacI",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "Tus hijos: sus emociones y las tuyas ¿Cómo guiarlos? Con Jimena Férez"
+        },
+        "is_original": {
+          "es-MX": true
+        },
+        "street_date": {
+          "es-MX": "2020-11-09"
+        },
+        "cost_per_play": {
+          "es-MX": 25
+        },
+        "authors": {
+          "es-MX": [
+            "Ada Carrillo"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Ada Carrillo",
+            "Jimena Férez Vidal"
+          ]
+        },
+        "duration": {
+          "es-MX": 22528879
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD361251"
+        }
+      },
+      "sys": {
+        "id": "7ywKg2PrwdB1uaCERmzxkT",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "Fashion Films"
+        },
+        "is_original": {
+          "es-MX": true
+        },
+        "street_date": {
+          "es-MX": "2020-11-06"
+        },
+        "cost_per_play": {
+          "es-MX": 25
+        },
+        "authors": {
+          "es-MX": [
+            "Renata Valdés"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Renata Valdés"
+          ]
+        },
+        "duration": {
+          "es-MX": 32472128
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD361242"
+        }
+      },
+      "sys": {
+        "id": "o6YBWu7hev7ENMPTcsO2f",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "Meditación del Niño Interior"
+        },
+        "is_original": {
+          "es-MX": true
+        },
+        "street_date": {
+          "es-MX": "2020-11-06"
+        },
+        "cost_per_play": {
+          "es-MX": 25
+        },
+        "authors": {
+          "es-MX": [
+            "ZEZ"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "ZEZ"
+          ]
+        },
+        "duration": {
+          "es-MX": 10024377
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD361245"
+        }
+      },
+      "sys": {
+        "id": "3Gz9UehsgGQUWLCN659mpW",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "Publicar en 2020"
+        },
+        "is_original": {
+          "es-MX": true
+        },
+        "street_date": {
+          "es-MX": "2020-11-06"
+        },
+        "cost_per_play": {
+          "es-MX": 25
+        },
+        "authors": {
+          "es-MX": [
+            "Paola Carola"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Paola Carola",
+            "Karina Sosa",
+            "Guadalupe Nettel"
+          ]
+        },
+        "duration": {
+          "es-MX": 22101098
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD361249"
+        }
+      },
+      "sys": {
+        "id": "7zd2kghqBBkwbeqekUGqpo",
+        "version": 1
+      }
+    },
+    {
+      "fields": {
+        "title": {
+          "es-MX": "Reconstrucciones"
+        },
+        "is_original": {
+          "es-MX": true
+        },
+        "street_date": {
+          "es-MX": "2020-11-06"
+        },
+        "cost_per_play": {
+          "es-MX": 25
+        },
+        "authors": {
+          "es-MX": [
+            "Dra. Arline Paola Arroyo Fonseca"
+          ]
+        },
+        "narrators": {
+          "es-MX": [
+            "Dra. Arline Paola Arroyo Fonseca",
+            "Rita Gitler"
+          ]
+        },
+        "duration": {
+          "es-MX": 14206894
+        },
+        "cover": {
+          "es-MX": "https://images.findawayworld.com/v1/image/cover/CD361247"
+        }
+      },
+      "sys": {
+        "id": "4a5N4xUccDLnoqKDxiHeRX",
+        "version": 1
+      }
+    }
+  ]
+}
