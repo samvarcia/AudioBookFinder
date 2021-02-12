@@ -1,4 +1,4 @@
-$roboto: "Roboto", sans-serif;
+$poppins: "Poppins", sans-serif;
 
 .search_container {
   // border: 1px solid red;
@@ -7,10 +7,11 @@ $roboto: "Roboto", sans-serif;
   justify-content: center;
   margin-top: 30px;
 
-  input {
+  .search_input {
     margin-right: 15px;
-    font-family: $roboto;
+    font-family: $poppins;
     border-radius: 27px;
+    outline: none;
     border: none;
     padding: 10px;
     width: 500px;
@@ -26,5 +27,39 @@ $roboto: "Roboto", sans-serif;
     box-shadow: 0px 20px 40px rgba(1, 153, 246, 0.2);
     border-radius: 35px;
     cursor: pointer;
+    outline: none;
+  }
+  .toggle-button,
+  .create-button {
+    text-align: center;
+    margin-left: 15px;
+    height: 40px;
+    width: 90px;
+    font-family: $poppins;
+    // font-weight: 600;
+    font-size: 20px;
+    cursor: pointer;
+    background: #ffe1a4;
+    border-radius: 27px;
+    border: none;
+    outline: none;
+  }
+  .create-button {
+    background-color: #6fe2e6;
+    color: #fff;
+  }
+}
+
+$breakpoint-tablet: 768px;
+
+@media screen and (max-width: $breakpoint-tablet) {
+  .search_container {
+    flex-wrap: wrap;
+    .search_input {
+      width: 70%;
+    }
+    .toggle-button {
+      margin-top: 10px;
+    }
   }
 }
