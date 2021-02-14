@@ -1,13 +1,21 @@
 $poppins: "Poppins", sans-serif;
+$breakpoint-tablet: 768px;
 
 .audiobook {
   background-color: #fff;
   box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.15);
   border-radius: 27px;
   width: 60%;
-  margin-top: 20px;
+  margin-top: 15px;
   padding: 15px;
 
+  .cover {
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 27px;
+  }
   .audiobook_container,
   .audiobook_info {
     display: flex;
@@ -19,6 +27,9 @@ $poppins: "Poppins", sans-serif;
   .audiobook_info {
     align-items: flex-end;
     width: 50%;
+    h1 {
+      font-size: 20px;
+    }
   }
 
   span {
@@ -56,5 +67,20 @@ $poppins: "Poppins", sans-serif;
   .left_info,
   .right_info {
     text-align: left;
+  }
+}
+
+@media screen and (max-width: $breakpoint-tablet) {
+  .audiobook_container {
+    flex-direction: column;
+  }
+
+  .audiobook_info {
+    display: block;
+    width: 100% !important;
+  }
+  .audiobook {
+    width: 75%;
+    padding: 10px;
   }
 }
