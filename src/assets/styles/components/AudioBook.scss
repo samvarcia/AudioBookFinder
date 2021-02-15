@@ -73,11 +73,15 @@ $breakpoint-tablet: 768px;
 @media screen and (max-width: $breakpoint-tablet) {
   .audiobook_container {
     flex-direction: column;
+    flex-wrap: wrap;
   }
-
   .audiobook_info {
-    display: block;
+    flex-wrap: wrap;
     width: 100% !important;
+  }
+  .AudioBookTitle {
+    font-size: 25px;
+    width: 100%;
   }
   .audiobook {
     width: 75%;

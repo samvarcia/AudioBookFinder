@@ -20,12 +20,11 @@ const AudioBook = (props) => {
           style={{
             backgroundImage: `url(${cover})`,
           }}
-        >
-        </div>
+        ></div>
 
         <div className="audiobook_info">
           <div className="left_info">
-            <h1>{title}</h1>
+            <h1 className="AudioBookTitle">{title}</h1>
             <h2>
               Duration:{" "}
               <span className="value">
