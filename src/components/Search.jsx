@@ -97,7 +97,7 @@ function SearchBar() {
             <label htmlFor="id" className="label">
               <span>Id</span>
               <input
-                placeholder="id"
+                placeholder="ID"
                 type="text"
                 name=""
                 id="id"
@@ -107,7 +107,7 @@ function SearchBar() {
             <label htmlFor="version" className="label">
               <span>Version</span>
               <input
-                placeholder=""
+                placeholder="Current version"
                 type="text"
                 name=""
                 id="version"

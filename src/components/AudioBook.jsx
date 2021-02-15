@@ -21,7 +21,6 @@ const AudioBook = (props) => {
             backgroundImage: `url(${cover})`,
           }}
         >
-          COVER
         </div>
 
         <div className="audiobook_info">
